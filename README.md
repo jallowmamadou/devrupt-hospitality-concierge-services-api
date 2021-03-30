@@ -4,7 +4,8 @@ The guest messenger (Guessenger) is an Apaleo integration that connects the fron
 already checked-in guest.
 
 This is the api that serves the guest messenger app.
-
+App/Web client repository on github.com
+[Web client](https://github.com/jallowmamadou/devrupt-hospitality-concierge-services-web)
 ---
 
 ## Features
